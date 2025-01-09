@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://https://capsule-render,vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIMJUNSEUNG&desc=Hello%This%is%my%Github%channel" />&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseung%Kim&fontSize=90" />
 </div>
   
   <!--내용 부분-->
