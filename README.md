@@ -1,4 +1,4 @@
-## Hi there waving hand gif
+## Hi there 👋
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junseung%Kim&fontSize=70&decs=Hello" />
