@@ -6,6 +6,7 @@
   
   <!--내용 부분-->
   <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Tech Stack ✨ </h3> <br>
+  <hr style="border: solid 1px; darkgray">
   <div align="center">
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -31,6 +32,7 @@
   <br>
   
   <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Studying 📚 </h3> <br>
+  <hr style="border: solid 1px; darkgray">
   <div align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
@@ -68,6 +70,7 @@
   
   <br>
      <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h3> <br> 
+     <hr style="border: solid 1px; darkgray">
   <div align="center">
     <!-- <a href="https://velog.io/@oka1313">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
