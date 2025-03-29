@@ -2,21 +2,22 @@
 
 <!-- 타이틀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Portfolio&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Portfolio&fontSize=70&animation=fadeIn" />
 </div>
+
+<!-- 소개 -->
+<h3 align="center">Welcome to My GitHub! 🚀</h3>
+<p align="center">Software Engineering Student | Passionate about Web & AI Development</p>
+
+---
 
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql" />
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
+
+---
 
 <!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
@@ -27,20 +28,33 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
+---
+
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="https://talented-stallion-a8e.notion.site/1b7c51a948fd8051bbf0f3212d41a524?v=1b7c51a948fd80c9a732000cd38985b7&pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,colab" />
 </div>
+
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">🌟 GitHub Stats 🌟</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 </div>
+
+---
+
+<!-- 활동 그래프 -->
+<h3 align="center">📊 Contribution Graph 📊</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
+</div>
+
+---
 
 <!-- Contact -->
 <h3 align="center">🧑‍💻 Contact me </h3>
@@ -56,8 +70,17 @@
   </a>
 </div>
 
-<!-- GitHub Stats -->
+---
+
+<!-- 잔디 그래프 -->
+<h3 align="center">🌳 GitHub Contributions 🌳</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true" />
+</div>
+
+---
+
+<!-- 방문자 수 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat" />
 </div>
