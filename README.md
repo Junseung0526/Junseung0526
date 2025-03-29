@@ -82,5 +82,5 @@
 
    <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gri22ly)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseung0526)](https://github.com/anuraghazra/github-readme-stats)
   </div>
