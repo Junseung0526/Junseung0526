@@ -14,7 +14,7 @@
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp" />
 </div>
 
 <hr style="border: 0.3px solid #444;">
@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,oracle,pandas,notion,colab" />
 </div>
 
 <hr style="border: 0.3px solid #444;">
