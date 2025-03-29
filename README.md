@@ -70,16 +70,6 @@
   </a>
 </div>
 
-<hr style="border: 0.3px solid #444;">
-
-<!-- 잔디 그래프 -->
-<h3 align="center">🌳 GitHub Contributions 🌳</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&animate=true" />
-</div>
-
-<hr style="border: 0.3px solid #444;">
-
 <!-- 방문자 수 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat&animate=true" />
