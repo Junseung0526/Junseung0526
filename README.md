@@ -78,3 +78,9 @@
         src="https://img.shields.io/badge/rla005@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
     </a>
   </div>
+
+
+   <div align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
