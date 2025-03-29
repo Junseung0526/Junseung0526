@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,oracle,pandas,notion,colab" />
-</div>
 
 <hr style="border: 0.3px solid #444;">
 
