@@ -9,15 +9,15 @@
 <h3 align="center">Welcome to My GitHub! 🚀</h3>
 <p align="center">Software Engineering Student | Passionate about Web & AI Development</p>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -36,25 +36,25 @@
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,colab" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- GitHub Stats -->
 <h3 align="center">🌟 GitHub Stats 🌟</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&animate=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117&animate=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&animate=true" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- 활동 그래프 -->
 <h3 align="center">📊 Contribution Graph 📊</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true&animate=true" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- Contact -->
 <h3 align="center">🧑‍💻 Contact me </h3>
@@ -70,17 +70,17 @@
   </a>
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- 잔디 그래프 -->
 <h3 align="center">🌳 GitHub Contributions 🌳</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&animate=true" />
 </div>
 
-<hr style="border: 0.5px solid #444;">
+<hr style="border: 0.3px solid #444;">
 
 <!-- 방문자 수 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat&animate=true" />
 </div>
