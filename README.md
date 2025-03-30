@@ -7,7 +7,7 @@
 
 <!-- 소개 -->
 <h3 align="center">Welcome to My GitHub! 🚀</h3>
-<p align="center">Software Engineering Student | Passionate about Web & AI Development</p>
+<p align="center">Software Engineering Student | Yonam Institute of Technology</p>
 
 <hr style="border: 0.3px solid #444;">
 
