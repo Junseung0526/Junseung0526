@@ -2,7 +2,7 @@
 
 <!-- 타이틀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Portfolio&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gri22ly&fontSize=70&animation=fadeIn" />
 </div>
 
 <!-- 소개 -->
@@ -33,7 +33,7 @@
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,arduino" />
 </div>
 
 <hr style="border: 0.3px solid #444;">
