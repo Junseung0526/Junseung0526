@@ -33,7 +33,7 @@
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,colab" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion" />
 </div>
 
 <hr style="border: 0.3px solid #444;">
