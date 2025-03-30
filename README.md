@@ -14,7 +14,7 @@
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
 </div>
 
 <hr style="border: 0.3px solid #444;">
