@@ -77,7 +77,5 @@
 
 <!-- Codenary Widget -->
 <div align="center">
-  <a href="https://www.codenary.co.kr/user-profile/detail/김준승?github_ride=true&utm_source=github">
-    <img src="https://www.codenary.co.kr/widget/github/api?username=김준승" />
-  </a>
+[![Github](https://www.codenary.co.kr/widget/github/api?username=김준승)](https://www.codenary.co.kr/user-profile/detail/김준승?github_ride=true&utm_source=github)
 </div>
