@@ -74,8 +74,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat&animate=true" />
 </div>
-
-<!-- Codenary Widget -->
-<div align="center">
-[![Github](https://www.codenary.co.kr/widget/github/api?username=김준승)](https://www.codenary.co.kr/user-profile/detail/김준승?github_ride=true&utm_source=github)
-</div>
