@@ -69,8 +69,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
-
-<!-- 방문자 수 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Junseung0526&label=Profile%20Views&color=brightgreen&style=flat&animate=true" />
-</div>
