@@ -52,8 +52,6 @@
 <h3 align="center">📊 Contribution Graph 📊</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true&animate=true" />
-
-  ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{kimjunseung}/{part})
 </div>
 
 <hr style="border: 0.3px solid #444;">
