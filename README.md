@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&animate=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117&animate=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&animate=true" />
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/Junseung0526"width="600"height="300"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=line">
+  <img src="https://render.gitanimals.org/lines/Junseung0526?pet-id=700401287686369730"width="600"height="120"/>
   </a>
 </div>
 
