@@ -42,7 +42,6 @@
 <h3 align="center">🌟 GitHub Stats 🌟</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&animate=true" />
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj={rla005}" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117&animate=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&animate=true" />
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=line">
@@ -50,6 +49,8 @@
   </a>
   
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005)](https://solved.ac/rla005/)
 
 <hr style="border: 0.3px solid #444;">
 
