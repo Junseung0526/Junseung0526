@@ -54,8 +54,6 @@
 
 <hr style="border: 0.3px solid #444;">
 
-<hr style="border: 0.3px solid #444;">
-
 <!-- 활동 그래프 -->
 <h3 align="center">📊 Contribution Graph 📊</h3>
 <div align="center">
