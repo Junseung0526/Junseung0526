@@ -63,20 +63,13 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=line">
     <img src="https://render.gitanimals.org/lines/Junseung0526?pet-id=700401287686369730" width="600" height="120"/>
   </a>
-</div>
 
-<hr style="border: 0.3px solid #444;">
-
-<!-- Competitive Programming -->
-<h3 align="center">📈 Competitive Programming 📈</h3>
-<div align="center">
-  <p>Check out my progress on Baekjoon Online Judge (solved.ac):</p>
+  <!-- 백준 solved.ac 배지 추가 -->
+  <br><br>
   <a href="https://solved.ac/rla005/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005" alt="solved.ac tier" />
   </a>
 </div>
-
-<hr style="border: 0.3px solid #444;">
 
 <!-- 활동 그래프 -->
 <h3 align="center">📊 Contribution Graph 📊</h3>
