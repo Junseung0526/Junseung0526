@@ -65,7 +65,16 @@
   </a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005)](https://solved.ac/rla005/)
+<hr style="border: 0.3px solid #444;">
+
+<!-- Competitive Programming -->
+<h3 align="center">📈 Competitive Programming 📈</h3>
+<div align="center">
+  <p>Check out my progress on Baekjoon Online Judge (solved.ac):</p>
+  <a href="https://solved.ac/rla005/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005" />
+  </a>
+</div>
 
 <hr style="border: 0.3px solid #444;">
 
