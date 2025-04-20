@@ -11,6 +11,22 @@
 
 <hr style="border: 0.3px solid #444;">
 
+<!-- Contact -->
+<h3 align="center">🧑‍💻 Contact me </h3>
+<div align="center">
+  <a href="mailto:rla005@naver.com">
+    <img src="https://img.shields.io/badge/Naver-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:rla030526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gri22ly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
+
+<hr style="border: 0.3px solid #444;">
+
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -45,9 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117&animate=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&animate=true" />
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/Junseung0526?pet-id=700401287686369730"width="600"height="120"/>
+    <img src="https://render.gitanimals.org/lines/Junseung0526?pet-id=700401287686369730" width="600" height="120"/>
   </a>
-  
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005)](https://solved.ac/rla005/)
@@ -61,17 +76,3 @@
 </div>
 
 <hr style="border: 0.3px solid #444;">
-
-<!-- Contact -->
-<h3 align="center">🧑‍💻 Contact me </h3>
-<div align="center">
-  <a href="mailto:rla005@naver.com">
-    <img src="https://img.shields.io/badge/Naver-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:rla030526@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gri22ly">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</div>
