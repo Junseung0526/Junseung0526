@@ -50,9 +50,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Junseung0526&utm_content=line">
     <img src="https://render.gitanimals.org/lines/Junseung0526?pet-id=700401287686369730" width="600" height="120"/>
   </a>
-
-  <!-- 백준 solved.ac 배지 추가 -->
-  <br><br>
+  <br>
 </div>
 
 <hr style="border: 0.3px solid #444;">
