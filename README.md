@@ -9,7 +9,7 @@
 <h3 align="center">Welcome to My GitHub! 🚀</h3>
 <p align="center">Software Engineering Student | Yonam Institute of Technology</p>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
 </div>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- Studying -->
 <h3 align="center">📚 Studying 📚</h3>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,arduino" />
 </div>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- GitHub Stats -->
 <h3 align="center">🌟 GitHub Stats 🌟</h3>
@@ -52,7 +52,7 @@
   </a>
 </div>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- 활동 그래프 -->
 <h3 align="center">📊 Contribution Graph 📊</h3>
@@ -60,7 +60,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true&animate=true" />
 </div>
 
-<hr style="border: 0.3px solid #444;">
+##
 
 <!-- Contact -->
 <h3 align="center">🧑‍💻 Contact me </h3>
