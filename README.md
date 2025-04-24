@@ -33,7 +33,7 @@
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,arduino,oracle" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,notion,arduino" />
 </div>
 
 ##
