@@ -1,4 +1,4 @@
-## Hi there!! 👋
+## Hi there! 👋
 
 <!-- 타이틀 -->
 <div align="center">
