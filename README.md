@@ -14,7 +14,7 @@
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react" />
 </div>
 
 ##
@@ -26,6 +26,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+##
+
+<!-- Awards -->
+<h3 align="center">📌 Awards 📌</h3>
+<div align="center">
+  <p>🏆 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</p>
 </div>
 
 ##
