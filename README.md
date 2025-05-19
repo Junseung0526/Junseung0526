@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,java,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,python,cpp" />
 </div>
 
 ##
@@ -37,7 +37,7 @@
 
 ### 🛠 Tools 🛠
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,webstorm,git,github,notion,arduino" />
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,eclipse,git,github,notion,arduino" />
 </div>
 
 ##
