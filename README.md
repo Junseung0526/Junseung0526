@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
 <p align="center">Software Engineering Student | Yonam Institute of Technology</p>
 
----
+##
 
 ### 💻 Tech Stack & Skills
 <div align="center">
@@ -46,21 +46,21 @@
   </p>
 </div>
 
----
+##
 
 ### 🏆 Awards & Projects
 <div align="center">
   <p><b>🥈 2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
   </div>
 
----
+##
 
 ### 🛠️ Development Tools & Environments
 <div align="center">
   <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
 </div>
 
----
+##
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -72,14 +72,14 @@
   </a>
 </div>
 
----
+##
 
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
 </div>
 
----
+##
 
 ### 📬 Contact Me
 <div align="center">
