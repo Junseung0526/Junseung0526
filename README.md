@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
 <p align="center">Software Engineering Student | Yonam Institute of Technology</p>
 
-##
+---
 
 ### 💻 Tech Stack & Skills
 <div align="center">
@@ -27,6 +27,10 @@
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </p>
+  <h4><b>Mobile</b></h4>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </p>
   <h4><b>Database</b></h4>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -42,21 +46,21 @@
   </p>
 </div>
 
-##
+---
 
 ### 🏆 Awards & Projects
 <div align="center">
   <p><b>🥈 2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
   </div>
 
-##
+---
 
 ### 🛠️ Development Tools & Environments
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,eclipse,git,github,notion" />
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
 </div>
 
-##
+---
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -68,14 +72,14 @@
   </a>
 </div>
 
-##
+---
 
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
 </div>
 
-##
+---
 
 ### 📬 Contact Me
 <div align="center">
