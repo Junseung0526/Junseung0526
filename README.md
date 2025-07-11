@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
 </div>
 
 <h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
@@ -19,7 +19,7 @@
   </p>
   <h4><b>Backend</b></h4>
   <p>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   </p>
@@ -48,48 +48,58 @@
 
 ##
 
+### 📚 Currently Learning
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  </p>
+</div>
+
+##
+
 ### 🏆 Awards & Projects
 <div align="center">
   <p><b>🥈 2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
-  </div>
+</div>
 
 ##
 
 ### 🛠️ Development Tools & Environments
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
 </div>
 
 ##
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
-  <a href="https://solved.ac/rla005/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005" alt="solved.ac tier" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseung0526&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <a href="https://solved.ac/rla005/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla005" alt="solved.ac tier" />
+  </a>
 </div>
 
 ##
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" />
 </div>
 
 ##
 
 ### 📬 Contact Me
 <div align="center">
-  <a href="mailto:rla005@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-  <a href="mailto:rla030526@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gri22ly">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="mailto:rla005@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+  <a href="mailto:rla030526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gri22ly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
