@@ -2,10 +2,12 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
+  
 </div>
 
 <h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
 <p align="center">Software Engineering Student | Yonam Institute of Technology</p>
+<strong><strong/><p>일정:<a href="https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link">클릭</a> </p>
 
 ##
 
