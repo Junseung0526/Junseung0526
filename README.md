@@ -62,7 +62,8 @@
 
 ### 🏆 Awards & Projects
 <div align="center">
-  <p><b>🥈 2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
+  <p><b> 🥈 2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상 </b></p>
+  <p><b> 🥈 2025 연암공과대학교 X 마산대학교 AI 헬스케어 해커톤 은상 </b></p>
 </div>
 
 ##
