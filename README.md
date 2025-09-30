@@ -24,6 +24,7 @@
 <!--     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </p>
   <h4><b>Frontend</b></h4>
   <p>
@@ -60,7 +61,7 @@
 
 ##
 
-### 🏆 Awards & Projects
+### 🏆 Awards
 <div align="center">
   <p><b>🥈2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
   <p><b>🥈2025 연암공과대학교 X 마산대학교 AI 헬스케어 해커톤 은상</b></p>
