@@ -22,6 +22,7 @@
   <h4><b>Backend</b></h4>
   <p>
 <!--     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -55,7 +56,6 @@
 ### 📚 Currently Learning
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   </p>
 </div>
@@ -72,7 +72,7 @@
 
 ### 🛠️ Development Tools & Environments
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
+  <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
 </div>
 
 ##
