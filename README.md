@@ -2,12 +2,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
-  
 </div>
 
 <h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
 <p align="center">Software Engineering Student | Yonam Institute of Technology</p>
-<strong><strong/><p>일정:<a href="https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link">클릭</a> </p>
+<p align="center"><b>일정:</b> <a href="https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link">클릭</a></p>
 
 ##
 
@@ -19,22 +18,16 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </p>
-    <h4><b>Frontend</b></h4>
+  <h4><b>Frontend</b></h4>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   </p>
   <h4><b>Backend</b></h4>
   <p>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </p>
-  <!-- <h4><b>Mobile</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  </p> -->
   <h4><b>Database</b></h4>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -62,11 +55,17 @@
 
 ##
 
-### 🏆 Awards
-<div align="center">
-  <p><b>🥈2025 연암공과대학교 SW EC2 리빙랩 AI 해커톤 최우수상</b></p>
-  <p><b>🥈2025 연암공과대학교 X 마산대학교 AI 헬스케어 해커톤 은상</b></p>
-</div>
+### ✨ Activities
+
+#### 2026
+* 구름 AI 해커톤 참가
+
+#### 2025
+* [Moment:um 2025] New Appjam 컨퍼런스 참가
+* AI 개발자 커뮤니티 컨퍼런스 - 2026년, AI 시대의 프론트엔드 트렌드 미리 알아보기 참가
+* **2025 연암공대 X 마산대 AI 헬스케어 해커톤 - 은상**
+* 2025 CO-WEEK ACADEMY 입학 및 수료
+* **2025 연암공대 SW EC2 리빙랩 AI 해커톤 - 최우수상**
 
 ##
 
