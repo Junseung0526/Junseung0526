@@ -3,77 +3,56 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
 </div>
+  
+### Software Engineering Student @ Yonam Institute of Technology
 
-<h3 align="center">🚀 Welcome to My GitHub 🚀</h3>
-<p align="center">Software Engineering Student | Yonam Institute of Technology</p>
-<p align="center"><b>일정:</b> <a href="https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link">클릭</a></p>
+[![Schedule](https://img.shields.io/badge/📅_Schedule-Notion-000000?style=flat-square)](https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link)
 
-##
-
-### 💻 Tech Stack & Skills
-<div align="center">
-  <h4><b>Languages</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </p>
-  <h4><b>Frontend</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </p>
-  <h4><b>Backend</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
-  <h4><b>Database</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  </p>
-  <h4><b>DevOps</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </p>
-  <h4><b>Data Science</b></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </p>
 </div>
 
 ##
 
-### 📚 Currently Learning
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  </p>
-</div>
+## 🛠 Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ##
 
-### ✨ Activities
+## 🏆 Activities & Awards
 
-#### 2026
-* **GNP 2026 컨퍼런스 참가**
-* **구름 AI 해커톤 참가**
+**2026**
+- **GNP 2026 Conference**
+- **Goorm AI Hackathon**
 
-#### 2025
-* **[Moment:um 2025] New Appjam 컨퍼런스 참가**
-* **AI 개발자 커뮤니티 컨퍼런스 - 2026년, AI 시대의 프론트엔드 트렌드 미리 알아보기 참가**
-* **2025 연암공대 X 마산대 AI 헬스케어 해커톤 - 은상**
-* **2025 CO-WEEK ACADEMY 입학 및 수료**
-* **2025 연암공대 SW EC2 리빙랩 AI 해커톤 - 최우수상**
-
-##
-
-### 🛠️ Development Tools & Environments
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,androidstudio,eclipse,git,github,notion" />
-</div>
+**2025**
+- **[Moment:um 2025] New Appjam Conference**
+- **AI Developer Community Conference**
+- **Yeonam x Masan AI Healthcare Hackathon - Silver Prize**
+- **CO-WEEK ACADEMY - Completion**
+- **Yeonam SW EC2 Living Lab AI Hackathon - Grand Prize**
 
 ##
 
