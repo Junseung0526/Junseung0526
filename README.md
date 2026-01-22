@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
