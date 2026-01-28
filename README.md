@@ -68,7 +68,7 @@
 
 ##
 
-### 📈 Activity Graph
+### 📈 Commit Shooter
 <div align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" /> -->
   <img src="https://github.com/Junseung0526/gh-space-shooter/blob/main/gh-space-shooter.gif?raw=true" width="100%" />
