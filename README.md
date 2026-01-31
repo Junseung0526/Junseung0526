@@ -1,13 +1,12 @@
-# Hi there! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2000&color=F7F7F7&width=600&lines=Hi+there!+👋+I'm+Junseung;Welcome+to+my+GitHub+space!;Always+striving+to+be+better;)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gri22ly&fontSize=65&animation=fadeIn" />
 </div>
-  
+
 ### Software Engineering Student @ Yonam Institute of Technology
 
 [![Schedule](https://img.shields.io/badge/📅_Schedule-Notion-000000?style=flat-square)](https://gri22ly.notion.site/Schedule_JS-256c51a948fd804b91bdc2a18ac6ce84?source=copy_link)
-
 </div>
 
 <br>
