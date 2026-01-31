@@ -43,18 +43,24 @@
 
 ##
 
+## 🚀 Experience
+* **LikeLion @ YIT 14th Core Team** | Backend Track (`2026.02 - Present`)
+  * Designing backend curriculum and managing student study groups.
+
+##
+
 ## 🏆 Activities & Awards
 
-**2026**
+### 2026
 - **GNP 2026 Conference**
 - **Goorm AI Hackathon**
 
-**2025**
+### 2025
 - **[Moment:um 2025] New Appjam Conference**
 - **AI Developer Community Conference**
-- **Yeonam x Masan AI Healthcare Hackathon - Silver Prize**
-- **CO-WEEK ACADEMY - Completion**
-- **Yeonam SW EC2 Living Lab AI Hackathon - Grand Prize**
+- **Yeonam x Masan AI Healthcare Hackathon** - *Silver Prize*
+- **CO-WEEK ACADEMY** - *Completion*
+- **Yeonam SW EC2 Living Lab AI Hackathon** - *Grand Prize*
 
 ##
 
