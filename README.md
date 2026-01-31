@@ -10,7 +10,7 @@
 
 </div>
 
-##
+<br>
 
 ## 🛠 Tech Stack
 
@@ -41,13 +41,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-##
+<br>
 
 ## 🚀 Experience
 * **LikeLion @ YIT 14th Core Team** | Backend Track (`2026.02 - Present`)
   * Designing backend curriculum and managing student study groups.
 
-##
+<br>
 
 ## 🏆 Activities & Awards
 
