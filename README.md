@@ -63,7 +63,7 @@
 
 ##
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Junseung0526&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junseung0526&theme=dark&hide_border=true&background=0D1117" />
@@ -75,7 +75,7 @@
 
 ##
 
-### 📈 Commit Shooter
+### Commit Shooter
 <div align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junseung0526&theme=github-dark&bg_color=0D1117&hide_border=true" /> -->
   <img src="https://github.com/Junseung0526/gh-space-shooter/blob/main/gh-space-shooter.gif?raw=true" width="100%" />
