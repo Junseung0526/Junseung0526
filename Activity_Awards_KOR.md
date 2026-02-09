@@ -10,3 +10,7 @@
 - **연암공과대학교 X 마산대학교 AI 헬스케어 해커톤** - *은상*
 - **CO-WEEK 아카데미** - *수료*
 - **연암공과대학교 SW EC2 Living Lab AI 해커톤** - *최우수상*
+
+<br>
+
+[🇺🇸 View in English](./README.md)
