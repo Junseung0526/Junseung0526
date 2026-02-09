@@ -63,7 +63,10 @@
 
 <br>
 
-[🇰🇷 한국어로 보기](./Activity_Awards_KOR.md)
+<a href="./Activity_Awards_KOR.md">
+  <img src="https://img.shields.io/badge/활동 및 수상경력 확인하기-007ACC?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 ##
 
 ### GitHub Stats
