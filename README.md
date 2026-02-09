@@ -61,6 +61,9 @@
 - **CO-WEEK ACADEMY** - *Completion*
 - **Yeonam SW EC2 Living Lab AI Hackathon** - *Grand Prize*
 
+<br>
+
+[🇰🇷 한국어로 보기](./Activity_Awards_KOR.md)
 ##
 
 ### GitHub Stats
