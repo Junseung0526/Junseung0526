@@ -13,4 +13,6 @@
 
 <br>
 
-[🇺🇸 View in English](./README.md)
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/돌아가기-007ACC?style=for-the-badge&logo=github&logoColor=white">
+</a>
