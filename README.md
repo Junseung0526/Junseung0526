@@ -34,6 +34,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -107,5 +108,18 @@
   </a>
   <a href="https://www.instagram.com/gri22ly">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+##
+
+### LIVE DEMO
+
+<div align="center">
+  <a href="https://www.gri22ly.me/">
+    <img src="https://img.shields.io/badge/MY--SELF.AI-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://aid-mani-hackerthon.vercel.app/">
+    <img src="https://img.shields.io/badge/실시간 도로 위험 제보-red?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
