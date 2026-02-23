@@ -1,3 +1,10 @@
+## 🚀 Experience
+* **멋쟁이사자처럼 대학 @ 연암공과대학교 14기 운영진 | 백엔드 트랙 (`2026.02 - 현재`)**
+  * 백엔드 교육 커리큘럼 설계 및 학습 그룹(스터디) 운영 관리
+
+
+<br>
+
 ## 활동 & 수상경력
 
 ### 2026
@@ -14,6 +21,6 @@
 
 <br>
 
-<a href="./README.md">
+<a href="https://github.com/Junseung0526">
   <img src="https://img.shields.io/badge/돌아가기-007ACC?style=for-the-badge&logo=github&logoColor=white">
 </a>
