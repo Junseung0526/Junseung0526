@@ -113,8 +113,6 @@
 
 ##
 
-### LIVE DEMO
-
 <div align="center">
   <a href="https://www.gri22ly.me/">
     <img src="https://img.shields.io/badge/MY--SELF.AI-blue?style=for-the-badge&logo=vercel&logoColor=white" />
