@@ -58,6 +58,7 @@
 ## 🏆 Activities & Awards
 
 ### 2026
+- **2026 LIKELION 14th Central Hackathon (Campus Organizer)**
 - **RISE Project: Super-regional AID Joint Education & MANI Hackathon**
 - **GNP 2026 Conference**
 - **Goorm AI Hackathon**
