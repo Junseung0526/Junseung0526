@@ -58,17 +58,17 @@
 ## 🏆 Activities & Awards
 
 ### 2026
-- **2026 LIKELION 14th Central Hackathon (Campus Organizer)**
-- **RISE Project: Super-regional AID Joint Education & MANI Hackathon**
-- **GNP 2026 Conference**
-- **Goorm AI Hackathon**
+- **2026 LIKELION 14th Central Hackathon** – Campus Organizer
+- **RISE Project: Super-regional AID Joint Education & MANI Hackathon** – Participant
+- **GNP 2026 Conference** – Attendee
+- **Yonam Goorm AI Hackathon** – Participant (1st & 2nd Editions)
 
 ### 2025
-- **[Moment:um 2025] New Appjam Conference**
-- **AI Developer Community Conference**
-- **Yeonam x Masan AI Healthcare Hackathon** - *Silver Prize*
-- **CO-WEEK ACADEMY** - *Completion*
-- **Yeonam SW EC2 Living Lab AI Hackathon** - *Grand Prize*
+- **Yonam SW EC2 Living Lab AI Hackathon** – **Silver Prize** 🥈
+- **Yonam x Masan AI Healthcare Hackathon** – **Silver Prize** 🥈
+- **CO-WEEK ACADEMY** – Completion
+- **[Moment:um 2025] New Appjam Conference** – Attendee
+- **AI Developer Community Conference** – Attendee
 
 <br>
 
