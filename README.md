@@ -59,6 +59,13 @@
 
 ### 2026
 - **2026 LIKELION 14th Central Hackathon** – Campus Organizer
+- **Yonam Goorm AI Hackathon** – Participant (1st & 2nd Editions)
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=302c51a948fd80379405f3ba6d7ebe00&pm=s" target="_blank">Notion: 1st Goorm AI Hackathon Notes (KR)</a><br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=35cc51a948fd80ad915bca267967afd4&pm=s" target="_blank">Notion: 2nd Goorm AI Hackathon Notes (KR)</a>
+  </details>
 - **RISE Project: Super-regional AID Joint Education & MANI Hackathon** – Participant
   <details>
     <summary>🔗 View Details</summary>
@@ -70,13 +77,6 @@
     <summary>🔗 View Details</summary>
     <br>
     👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=2eec51a948fd808da24aebe8ca55a48f&pm=s" target="_blank">Notion: GNP 2026 Conference Review (KR)</a>
-  </details>
-- **Yonam Goorm AI Hackathon** – Participant (1st & 2nd Editions)
-  <details>
-    <summary>🔗 View Details</summary>
-    <br>
-    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=302c51a948fd80379405f3ba6d7ebe00&pm=s" target="_blank">Notion: 1st Goorm AI Hackathon Notes (KR)</a><br>
-    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=35cc51a948fd80ad915bca267967afd4&pm=s" target="_blank">Notion: 2nd Goorm AI Hackathon Notes (KR)</a>
   </details>
 
 ### 2025
