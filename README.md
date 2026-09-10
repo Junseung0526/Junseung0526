@@ -60,15 +60,46 @@
 ### 2026
 - **2026 LIKELION 14th Central Hackathon** – Campus Organizer
 - **RISE Project: Super-regional AID Joint Education & MANI Hackathon** – Participant
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=305c51a948fd807a9a39dd9b23a3738a&pm=s" target="_blank">Notion: RISE AID Hackathon Retrospective (KR)</a>
+  </details>
 - **GNP 2026 Conference** – Attendee
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=2eec51a948fd808da24aebe8ca55a48f&pm=s" target="_blank">Notion: GNP 2026 Conference Review (KR)</a>
+  </details>
 - **Yonam Goorm AI Hackathon** – Participant (1st & 2nd Editions)
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=302c51a948fd80379405f3ba6d7ebe00&pm=s" target="_blank">Notion: 1st Goorm AI Hackathon Notes (KR)</a><br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=35cc51a948fd80ad915bca267967afd4&pm=s" target="_blank">Notion: 2nd Goorm AI Hackathon Notes (KR)</a>
+  </details>
 
 ### 2025
 - **Yonam SW EC2 Living Lab AI Hackathon** – **Silver Prize** 🥈
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=256c51a948fd81f787a5d295dc621c9f&pm=s" target="_blank">Notion: Living Lab AI Hackathon Notes (KR)</a>
+  </details>
 - **Yonam x Masan AI Healthcare Hackathon** – **Silver Prize** 🥈
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=283c51a948fd80c08f58d276674224ee&pm=s" target="_blank">Notion: AI Healthcare Hackathon Notes (KR)</a>
+  </details>
 - **CO-WEEK ACADEMY** – Completion
 - **[Moment:um 2025] New Appjam Conference** – Attendee
 - **AI Developer Community Conference** – Attendee
+  <details>
+    <summary>🔗 View Details</summary>
+    <br>
+    👉 <a href="https://gri22ly.notion.site/Junseung-Kim-256c51a948fd804b91bdc2a18ac6ce84?p=2c2c51a948fd8067a1a8c9a3bc2014c6&pm=s" target="_blank">Notion: AI Developer Community Conference Review (KR)</a>
+  </details>
 
 <br>
 
