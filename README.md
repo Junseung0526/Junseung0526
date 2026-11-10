@@ -24,7 +24,7 @@
 | **Education** | Yonam Institute of Technology, Software Engineering |
 | **Role** | LikeLion @ YIT 14th Core Team, Backend Track |
 | **Currently learning** | Kubernetes, Rust |
-| **Recognition** | Silver Prize x2, AI Hackathons (2025) |
+| **Recognition** | Excellence Award and Silver Prize, AI Hackathons (2025) |
 | **Focus** | Backend, Docker, CI/CD |
 
 <br>
@@ -140,7 +140,7 @@
   <summary><b>2025</b></summary>
   <br>
 
-- **Yonam SW EC2 Living Lab AI Hackathon**, **Silver Prize**
+- **Yonam SW EC2 Living Lab AI Hackathon**, **Excellence Award**
   <details>
     <summary>View Details</summary>
     <br>
