@@ -96,11 +96,11 @@
 <!-- RECENT:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
+| [self-ai-generator](https://github.com/Junseung0526/self-ai-generator) | LLM(Gemini API)과 실시간 코드 런타임(Sandpack)을 결합하여 가상 환경에서 즉각적인 UI 프로토타이핑이 가능한 풀스택 웹 애플리케이션 | TypeScript | 2026-11-10 |
+| [AlgoSolved-AI](https://github.com/Junseung0526/AlgoSolved-AI) | AI-assisted algorithm problem web app built with React, TypeScript and the Gemini API. | TypeScript | 2026-11-10 |
 | [claude-buddy](https://github.com/Junseung0526/claude-buddy) | A macOS desktop pet that shows what Claude Code, Codex and Antigravity are doing, live. Pixel-art buddy with usage stats, alerts and 5 languages. | Python | 2026-11-05 |
 | [eip-midterm-2026-2](https://github.com/Junseung0526/eip-midterm-2026-2) | [2026-2 중간고사] 정보처리기사 1·2과목 학습 노트 — 64개 항목 개념 · SVG 도해 · 시뮬레이터 · 예상문제 · 암기카드 | JavaScript | 2026-11-04 |
 | [embedded-s32k-midterm-2026-2](https://github.com/Junseung0526/embedded-s32k-midterm-2026-2) | [2026-2 중간고사] S32K312 임베디드 시스템 시각화 노트 — 보드 허브 기반 1~6주차 인터랙티브 학습 | JavaScript | 2026-11-02 |
-| [spring-boot-midterm-2026-2](https://github.com/Junseung0526/spring-boot-midterm-2026-2) | [2026-2 중간고사] Spring Boot 4 인터랙티브 실습 — 브라우저 IDE 시뮬레이터로 MVC · IoC/DI · CRUD · 트랜잭션 · AOP · 테스트 학습 | JavaScript | 2026-10-28 |
-| [aws-architecting-midterm-2026-2](https://github.com/Junseung0526/aws-architecting-midterm-2026-2) | [2026-2 중간고사] AWS Cloud Architecting 학습 노트 — 핵심 요약 · 모의고사 · 개념 도해 · 암기카드 · 오답노트 | JavaScript | 2026-10-24 |
 <!-- RECENT:END -->
 
 <sub>Updated automatically every day.</sub>
